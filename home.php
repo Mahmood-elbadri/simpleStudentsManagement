@@ -59,7 +59,7 @@
 </head>
 <body dir="rtl">
     <?php
-    //الاتصال مع قاعدة البيانات
+    //Database connection
     $host = 'localhost';
     $user = 'root';
     $pass = '';
