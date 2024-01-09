@@ -29,10 +29,3 @@
        Click the "اضافة طالب" button.
     - To delete a student:
       Click the "حذف طالب" button next to the student's entry in the table.
-
-
-[Specify the license type if applicable]
-
-**Additional Notes:**
-
-[Paste the additional notes from the previous response here]
