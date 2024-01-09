@@ -92,7 +92,7 @@
         $stmt = mysqli_prepare($con, $sqls);
         mysqli_stmt_bind_param($stmt, 'i', $id);
         mysqli_stmt_execute($stmt);
-        header($_SERVER['PHP_SELF']);
+        header("location:home.php");
     }
     ?>
     <div id='mother'>
